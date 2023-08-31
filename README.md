@@ -1,4 +1,4 @@
 # Athi
-This is my 2nd repository.
+2nd repo
 
 Author Atharva Rajadhyaksha
