@@ -1,2 +1,4 @@
 # Athi
-2nd repo
+This is my 2nd repository.
+
+Author Atharva Rajadhyaksha
